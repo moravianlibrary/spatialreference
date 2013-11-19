@@ -1,5 +1,5 @@
 EPSG.io
 =======
 
-SpatialRefence - transformace souřadnicových systémů používaných na našem území
+SpatialReference - transformace souřadnicových systémů používaných na našem území
 
