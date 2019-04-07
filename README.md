@@ -1,7 +1,7 @@
 EPSG.io
 =======
 
-SpatialReference - transformace souřadnicových systémů používaných na našem území. Nýní služba běží na http://epsg.io/. Původně běžela na http://spatialreference.mzk.cz/.
+SpatialReference - transformace souřadnicových systémů používaných na našem území. Nyní služba běží na http://epsg.io/. Původně běžela na http://spatialreference.mzk.cz/.
 
 Software vznikl díky projektu TEMAP (DF11P01OVV003), který se uskutečňuje díky laskavé podpoře Programu aplikovaného výzkumu a vývoje národní a kulturní identity NAKI.
 
